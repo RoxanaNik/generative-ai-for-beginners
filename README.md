@@ -18,7 +18,7 @@
 
 Learn the fundamentals of building Generative AI applications with our 21-lesson comprehensive course by Microsoft Cloud Advocates.
 
-## 🌱 Getting Started
+## 🌱 Getting Started with
 
 This course has 21 lessons. Each lesson covers its own topic so start wherever you like!
 
